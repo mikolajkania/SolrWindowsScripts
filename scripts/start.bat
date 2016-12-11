@@ -1,6 +1,6 @@
-SET JAVA_HOME=C:\Program Files\Java\jre1.8.0_77
+SET JAVA_HOME=C:\Program Files\Java\jre1.8.0_111
 
-SET SOLR_SERVER=C:\Code\solr-6.0
+SET SOLR_SERVER=C:\Code\solr-6.3.0
 SET SOLR_HOME=C:\Code\solr-data\techproducts
 
 REM start in foreground (-f), show messages(-V), solr home (-s), java/solr parameters(-a): solr index dir, debug, creating heap dump when memory problems appear, jmx remoting
