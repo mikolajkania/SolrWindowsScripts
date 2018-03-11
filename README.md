@@ -1,4 +1,4 @@
-# SolrWindowsScripts
+# Solr startup scripts for Windows
 Simple scripts to manage Solr instance startup on Windows:
 
 - start.bat - starting Solr with debug mode
